@@ -1,6 +1,3 @@
-Certainly! Here's a `README.md` file for the provided HTML code:
-
----
 
 # X-Factor Website
 
