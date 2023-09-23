@@ -33,10 +33,3 @@ The X-Factor Website is a simple, responsive landing page for an online training
 
 You can use this code as a starting point for building your own landing page or customize it further to suit your needs. Simply download the repository, modify the content and styles, and host it on a web server.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the README further if needed and add any additional information or instructions for users or contributors.
